@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy José Eduardo Landeros
 
-<!--
-**JoseLanderos/JoseLanderos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Full Stack con pasión por crear soluciones web funcionales, escalables y centradas en el usuario.  
+💻 Me especializo en JavaScript, Java, React, Node.js y Spring Boot.  
+🚀 Actualmente trabajando en proyectos personales para reforzar mis habilidades y compartirlos como parte de mi portafolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y Herramientas
+
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Node.js, Java y Spring Boot
+- **Bases de datos:** MySQL
+- **Otros:** Git, GitHub, REST APIs
+
+---
+
+## 📫 ¿Hablamos?
+
+Puedes contactarme por [LinkedIn](www.linkedin.com/in/jose-eduardo-landeros-sandoval) o enviarme un correo a j.eduardo.landeros.s@gmail.com.
+
+¡Gracias por visitar mi perfil!
